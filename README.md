@@ -37,7 +37,6 @@ Search/
 ├── search_tests.cpp
 ├── include/
 │   └── search.h
-├── data/
 ├── Makefile
 ├── README.md
 └── .gitignore
@@ -51,7 +50,6 @@ Search/
 | `search_main.cpp` | Runs the program by asking the user for a filename and starting the search engine |
 | `search_tests.cpp` | Test cases for validating search engine functionality |
 | `include/search.h` | Header file containing function declarations |
-| `data/` | Contains text data files used by the search engine |
 | `Makefile` | Builds and runs the project |
 
 ## Main Functions
