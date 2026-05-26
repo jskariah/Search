@@ -1,0 +1,20 @@
+# Build outputs
+build/
+*.o
+*.obj
+*.exe
+*.out
+
+# Compiled binaries
+ciphers_main
+ciphers_tests
+
+# Editor settings
+.vscode/
+
+# Windows security metadata
+*Zone.Identifier
+
+# OS junk
+.DS_Store
+Thumbs.db
