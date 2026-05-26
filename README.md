@@ -25,7 +25,6 @@ The main implementation work for this project was completed in `search.cpp`.
 - STL `set`
 - STL `string`
 - STL file streams
-- Makefile
 - GoogleTest for testing
 
 ## Project Structure
